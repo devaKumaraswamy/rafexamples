@@ -1,0 +1,25 @@
+{
+  "name": "rafexamples",
+  "version": "1.0.0",
+  "description": "testing prior to release of raf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devakumaraswamy/rafexamples.git"
+  },
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Deva Kumar <deva.kumar@sas.com>",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/devakumaraswamy/rafexamples/issues"
+  },
+  "homepage": "https://github.com/devakumaraswamy/rafexamples#readme"
+}
